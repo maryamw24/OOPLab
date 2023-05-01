@@ -1,0 +1,7 @@
+D:\Assesments\assesment2\assesment2\obj\Debug\assesment2.csproj.AssemblyReference.cache
+D:\Assesments\assesment2\assesment2\obj\Debug\assesment2.csproj.CoreCompileInputs.cache
+D:\Assesments\assesment2\assesment2\bin\Debug\assesment2.exe.config
+D:\Assesments\assesment2\assesment2\bin\Debug\assesment2.exe
+D:\Assesments\assesment2\assesment2\bin\Debug\assesment2.pdb
+D:\Assesments\assesment2\assesment2\obj\Debug\assesment2.exe
+D:\Assesments\assesment2\assesment2\obj\Debug\assesment2.pdb

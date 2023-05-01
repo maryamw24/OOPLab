@@ -1,0 +1,7 @@
+D:\Assesments\assesmentweek3\assesmentweek3\bin\Debug\assesmentweek3.exe.config
+D:\Assesments\assesmentweek3\assesmentweek3\bin\Debug\assesmentweek3.exe
+D:\Assesments\assesmentweek3\assesmentweek3\bin\Debug\assesmentweek3.pdb
+D:\Assesments\assesmentweek3\assesmentweek3\obj\Debug\assesmentweek3.csproj.AssemblyReference.cache
+D:\Assesments\assesmentweek3\assesmentweek3\obj\Debug\assesmentweek3.csproj.CoreCompileInputs.cache
+D:\Assesments\assesmentweek3\assesmentweek3\obj\Debug\assesmentweek3.exe
+D:\Assesments\assesmentweek3\assesmentweek3\obj\Debug\assesmentweek3.pdb

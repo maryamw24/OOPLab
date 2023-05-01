@@ -1,0 +1,7 @@
+D:\OOPLab\week3\practice\practice\obj\Debug\practice.csproj.AssemblyReference.cache
+D:\OOPLab\week3\practice\practice\obj\Debug\practice.csproj.CoreCompileInputs.cache
+D:\OOPLab\week3\practice\practice\bin\Debug\practice.exe.config
+D:\OOPLab\week3\practice\practice\bin\Debug\practice.exe
+D:\OOPLab\week3\practice\practice\bin\Debug\practice.pdb
+D:\OOPLab\week3\practice\practice\obj\Debug\practice.exe
+D:\OOPLab\week3\practice\practice\obj\Debug\practice.pdb
